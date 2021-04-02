@@ -10,7 +10,7 @@
 <img src="https://i.ibb.co/1Zd5ms1/Screenshot-86.png"/>
 
 <button>
- <a href="https://shuvo-chat-app-nodejs.herokuapp.com/">Click here to see The app</a>
+ <a href="https://shuvo-chat-app-nodejs.herokuapp.com/" target="_blank">Click here to see The app</a>
 </button>
 <br/>
 
